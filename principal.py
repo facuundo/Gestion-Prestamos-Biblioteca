@@ -1,4 +1,6 @@
 #menu principal
+#TODO: armar con tkinter una interfaz grafica
+#TODO: archivo main y un menu que contenga cada parte del menu - o varios menues
 import funciones
 
 ruta_libros = 'libros.json'

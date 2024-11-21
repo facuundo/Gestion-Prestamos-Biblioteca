@@ -1,4 +1,5 @@
 #todas las funciones
+#TODO: separar en varios archivos de funciones
 import json
 import os
 
