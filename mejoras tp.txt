@@ -1,0 +1,2 @@
+Me gustó el uso de módulos, pero hubiera estado bueno que hayan puesto un módulo por tipo de funciones, se vuelve bastante largo sino el archivo de funciones.
+Usar alguna librería de fechas para facilitar la búsqueda
